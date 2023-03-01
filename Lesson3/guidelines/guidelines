@@ -1,0 +1,9 @@
+1. create an account with github so that you can have a username and a email address
+2. configure git settings
+3. use command git config --global user.name (enter your github" username")
+       	       git config --global user.email (enter your github email address)
+4. Go to Github and create a repository and personal access token. Then copy the links to both the PAT and the repos
+5. Clone your repo using command git clone (paste the links created above)
+6. git add .
+7. commit your repo with  messageusing the command git commit -m
+8. git push
